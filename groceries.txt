@@ -5,3 +5,4 @@ milk
 spaghetti
 onions
 butter
+eggs
